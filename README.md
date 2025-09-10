@@ -1,9 +1,9 @@
 # IMARS Integrated Multi-Agency Response & Safety System
 ## Ujjainmahakubh-Hackathon-2025-Round-2-submission
 
-** Team Name: ** Rishi Path
-** Live Prototype Link:** [https://imarmahakumbhhackathon.netlify.app/home]
-** Public Code Repository Link: ** [Important:https://github.com/shreya891011/IMARS-Ujjain-Mahakumbh-hackthon-round2]
+### Team Name: ** Rishi Path
+#### Live Prototype Link:** [https://imarmahakumbhhackathon.netlify.app/home]
+#### Public Code Repository Link: ** [Important:https://github.com/shreya891011/IMARS-Ujjain-Mahakumbh-hackthon-round2]
 
 ---
 
