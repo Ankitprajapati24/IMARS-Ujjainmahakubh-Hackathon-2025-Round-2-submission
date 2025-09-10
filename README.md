@@ -1,7 +1,5 @@
 # IMARS Integrated Multi-Agency Response & Safety System
 ## Ujjainmahakubh-Hackathon-2025-Round-2-submission
-Project link 
-# MahakumbhSmart Management Application
 
 **Team Name:** Rishi Path
 ** Live Prototype Link:**[https://imarmahakumbhhackathon.netlify.app/home]
